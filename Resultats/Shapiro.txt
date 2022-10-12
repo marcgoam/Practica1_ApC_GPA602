@@ -1,0 +1,654 @@
+ - TEST DE SHAPIRO - 
+
+
+Atribut 1 Any: 1800 --> Estadistic: 0.9887773394584656   |   P-Valor: 0.11583148688077927
+No es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 2 Any: 1801 --> Estadistic: 0.9861128926277161   |   P-Valor: 0.04586431756615639
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 3 Any: 1802 --> Estadistic: 0.9872831106185913   |   P-Valor: 0.06893709301948547
+No es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 4 Any: 1803 --> Estadistic: 0.9921090006828308   |   P-Valor: 0.34993278980255127
+No es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 5 Any: 1804 --> Estadistic: 0.9880924820899963   |   P-Valor: 0.0913628488779068
+No es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 6 Any: 1805 --> Estadistic: 0.983538806438446   |   P-Valor: 0.018868504092097282
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 7 Any: 1806 --> Estadistic: 0.9772395491600037   |   P-Valor: 0.0023758108727633953
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 8 Any: 1807 --> Estadistic: 0.9863826632499695   |   P-Valor: 0.050377920269966125
+No es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 9 Any: 1808 --> Estadistic: 0.9765198230743408   |   P-Valor: 0.00189547601621598
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 10 Any: 1809 --> Estadistic: 0.97993004322052   |   P-Valor: 0.005640340968966484
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 11 Any: 1810 --> Estadistic: 0.9887486100196838   |   P-Valor: 0.11468857526779175
+No es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 12 Any: 1811 --> Estadistic: 0.9864302277565002   |   P-Valor: 0.05121864005923271
+No es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 13 Any: 1812 --> Estadistic: 0.9905104041099548   |   P-Valor: 0.20895834267139435
+No es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 14 Any: 1813 --> Estadistic: 0.9885876178741455   |   P-Valor: 0.10847670584917068
+No es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 15 Any: 1814 --> Estadistic: 0.9885748028755188   |   P-Valor: 0.1079961508512497
+No es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 16 Any: 1815 --> Estadistic: 0.9801534414291382   |   P-Valor: 0.006068762857466936
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 17 Any: 1816 --> Estadistic: 0.9815433621406555   |   P-Valor: 0.009615516290068626
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 18 Any: 1817 --> Estadistic: 0.9666860103607178   |   P-Valor: 0.00010773866233648732
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 19 Any: 1818 --> Estadistic: 0.9403577446937561   |   P-Valor: 2.3220117384425976e-07
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 20 Any: 1819 --> Estadistic: 0.9137377738952637   |   P-Valor: 1.933817772581392e-09
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 21 Any: 1820 --> Estadistic: 0.9480983018875122   |   P-Valor: 1.1761158020817675e-06
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 22 Any: 1821 --> Estadistic: 0.9855910539627075   |   P-Valor: 0.03825976699590683
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 23 Any: 1822 --> Estadistic: 0.970599889755249   |   P-Valor: 0.00032183341681957245
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 24 Any: 1823 --> Estadistic: 0.9622176885604858   |   P-Valor: 3.306322469143197e-05
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 25 Any: 1824 --> Estadistic: 0.9750695824623108   |   P-Valor: 0.001210744958370924
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 26 Any: 1825 --> Estadistic: 0.9721217155456543   |   P-Valor: 0.0005005975253880024
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 27 Any: 1826 --> Estadistic: 0.9810500741004944   |   P-Valor: 0.00815893616527319
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 28 Any: 1827 --> Estadistic: 0.9776825904846191   |   P-Valor: 0.0027333637699484825
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 29 Any: 1828 --> Estadistic: 0.9857114553451538   |   P-Valor: 0.03989236056804657
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 30 Any: 1829 --> Estadistic: 0.9844658970832825   |   P-Valor: 0.02593056485056877
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 31 Any: 1830 --> Estadistic: 0.98409104347229   |   P-Valor: 0.022795075550675392
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 32 Any: 1831 --> Estadistic: 0.9860859513282776   |   P-Valor: 0.04543678089976311
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 33 Any: 1832 --> Estadistic: 0.9836341738700867   |   P-Valor: 0.01949341781437397
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 34 Any: 1833 --> Estadistic: 0.9929341077804565   |   P-Valor: 0.44776228070259094
+No es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 35 Any: 1834 --> Estadistic: 0.9877126812934875   |   P-Valor: 0.0800594836473465
+No es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 36 Any: 1835 --> Estadistic: 0.9782769083976746   |   P-Valor: 0.003303359728306532
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 37 Any: 1836 --> Estadistic: 0.9783905744552612   |   P-Valor: 0.0034258069936186075
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 38 Any: 1837 --> Estadistic: 0.9864024519920349   |   P-Valor: 0.0507262647151947
+No es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 39 Any: 1838 --> Estadistic: 0.9859642386436462   |   P-Valor: 0.043553534895181656
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 40 Any: 1839 --> Estadistic: 0.9842804074287415   |   P-Valor: 0.024327436462044716
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 41 Any: 1840 --> Estadistic: 0.9825905561447144   |   P-Valor: 0.013671260327100754
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 42 Any: 1841 --> Estadistic: 0.9807520508766174   |   P-Valor: 0.00739182299003005
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 43 Any: 1842 --> Estadistic: 0.982093870639801   |   P-Valor: 0.011563442647457123
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 44 Any: 1843 --> Estadistic: 0.9762323498725891   |   P-Valor: 0.0017330555710941553
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 45 Any: 1844 --> Estadistic: 0.9733411073684692   |   P-Valor: 0.0007181399851106107
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 46 Any: 1845 --> Estadistic: 0.967306911945343   |   P-Valor: 0.00012766952568199486
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 47 Any: 1846 --> Estadistic: 0.9881501793861389   |   P-Valor: 0.09321213513612747
+No es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 48 Any: 1847 --> Estadistic: 0.9865003824234009   |   P-Valor: 0.05248478427529335
+No es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 49 Any: 1848 --> Estadistic: 0.9841269850730896   |   P-Valor: 0.023078395053744316
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 50 Any: 1849 --> Estadistic: 0.9717040061950684   |   P-Valor: 0.00044301708112470806
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 51 Any: 1850 --> Estadistic: 0.965794563293457   |   P-Valor: 8.464549318887293e-05
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 52 Any: 1851 --> Estadistic: 0.9756990075111389   |   P-Valor: 0.0014690826646983624
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 53 Any: 1852 --> Estadistic: 0.9775602221488953   |   P-Valor: 0.002629311056807637
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 54 Any: 1853 --> Estadistic: 0.9704200625419617   |   P-Valor: 0.0003056566056329757
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 55 Any: 1854 --> Estadistic: 0.917161762714386   |   P-Valor: 3.384760471902837e-09
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 56 Any: 1855 --> Estadistic: 0.9684622883796692   |   P-Valor: 0.00017575747915543616
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 57 Any: 1856 --> Estadistic: 0.9737332463264465   |   P-Valor: 0.0008075831574387848
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 58 Any: 1857 --> Estadistic: 0.9751662015914917   |   P-Valor: 0.0012470829533413053
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 59 Any: 1858 --> Estadistic: 0.9703899025917053   |   P-Valor: 0.00030302462982945144
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 60 Any: 1859 --> Estadistic: 0.9705876111984253   |   P-Valor: 0.00032070130691863596
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 61 Any: 1860 --> Estadistic: 0.963601291179657   |   P-Valor: 4.731851367978379e-05
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 62 Any: 1861 --> Estadistic: 0.9719254374504089   |   P-Valor: 0.0004726266779471189
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 63 Any: 1862 --> Estadistic: 0.9744774103164673   |   P-Valor: 0.0010109139839187264
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 64 Any: 1863 --> Estadistic: 0.9676583409309387   |   P-Valor: 0.00014063256094232202
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 65 Any: 1864 --> Estadistic: 0.9771839380264282   |   P-Valor: 0.002334514632821083
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 66 Any: 1865 --> Estadistic: 0.974743127822876   |   P-Valor: 0.0010959289502352476
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 67 Any: 1866 --> Estadistic: 0.9771886467933655   |   P-Valor: 0.0023379831109195948
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 68 Any: 1867 --> Estadistic: 0.9436944723129272   |   P-Valor: 4.601219814048818e-07
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 69 Any: 1868 --> Estadistic: 0.9316063523292542   |   P-Valor: 4.264393638209185e-08
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 70 Any: 1869 --> Estadistic: 0.982844889163971   |   P-Valor: 0.014900448732078075
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 71 Any: 1870 --> Estadistic: 0.9740549921989441   |   P-Valor: 0.0008896711515262723
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 72 Any: 1871 --> Estadistic: 0.9609314203262329   |   P-Valor: 2.3825989046599716e-05
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 73 Any: 1872 --> Estadistic: 0.9598698019981384   |   P-Valor: 1.825236904551275e-05
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 74 Any: 1873 --> Estadistic: 0.9645220041275024   |   P-Valor: 6.0280257457634434e-05
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 75 Any: 1874 --> Estadistic: 0.9730844497680664   |   P-Valor: 0.0006652696174569428
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 76 Any: 1875 --> Estadistic: 0.9288651347160339   |   P-Valor: 2.5756243360319786e-08
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 77 Any: 1876 --> Estadistic: 0.9755941033363342   |   P-Valor: 0.0014223201433196664
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 78 Any: 1877 --> Estadistic: 0.9650395512580872   |   P-Valor: 6.915734411450103e-05
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 79 Any: 1878 --> Estadistic: 0.970966637134552   |   P-Valor: 0.00035768310772255063
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 80 Any: 1879 --> Estadistic: 0.9510369300842285   |   P-Valor: 2.2547965272678994e-06
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 81 Any: 1880 --> Estadistic: 0.9626384973526001   |   P-Valor: 3.6847231967840344e-05
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 82 Any: 1881 --> Estadistic: 0.9529750943183899   |   P-Valor: 3.5039997783314902e-06
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 83 Any: 1882 --> Estadistic: 0.964826226234436   |   P-Valor: 6.53431416139938e-05
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 84 Any: 1883 --> Estadistic: 0.9488966464996338   |   P-Valor: 1.4007454183229129e-06
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 85 Any: 1884 --> Estadistic: 0.9492976665496826   |   P-Valor: 1.530155714135617e-06
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 86 Any: 1885 --> Estadistic: 0.9417972564697266   |   P-Valor: 3.1103212450034334e-07
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 87 Any: 1886 --> Estadistic: 0.9417284727096558   |   P-Valor: 3.066892020342493e-07
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 88 Any: 1887 --> Estadistic: 0.9321262836456299   |   P-Valor: 4.698729227925469e-08
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 89 Any: 1888 --> Estadistic: 0.941724419593811   |   P-Valor: 3.064380962314317e-07
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 90 Any: 1889 --> Estadistic: 0.922599732875824   |   P-Valor: 8.488751035429232e-09
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 91 Any: 1890 --> Estadistic: 0.9218057990074158   |   P-Valor: 7.404319823933747e-09
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 92 Any: 1891 --> Estadistic: 0.9401939511299133   |   P-Valor: 2.2466346649707702e-07
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 93 Any: 1892 --> Estadistic: 0.9450557827949524   |   P-Valor: 6.122170930211723e-07
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 94 Any: 1893 --> Estadistic: 0.9303556680679321   |   P-Valor: 3.383068758466834e-08
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 95 Any: 1894 --> Estadistic: 0.9192568063735962   |   P-Valor: 4.801599562398451e-09
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 96 Any: 1895 --> Estadistic: 0.9080106019973755   |   P-Valor: 7.816493563517213e-10
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 97 Any: 1896 --> Estadistic: 0.9059876799583435   |   P-Valor: 5.725102059095377e-10
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 98 Any: 1897 --> Estadistic: 0.9090654253959656   |   P-Valor: 9.210328610897989e-10
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 99 Any: 1898 --> Estadistic: 0.9077033996582031   |   P-Valor: 7.453348493946521e-10
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 100 Any: 1899 --> Estadistic: 0.9154531955718994   |   P-Valor: 2.555301747975136e-09
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 101 Any: 1900 --> Estadistic: 0.9185774326324463   |   P-Valor: 4.284264498721768e-09
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 102 Any: 1901 --> Estadistic: 0.8996621370315552   |   P-Valor: 2.221366007804093e-10
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 103 Any: 1902 --> Estadistic: 0.904026985168457   |   P-Valor: 4.2509093467479886e-10
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 104 Any: 1903 --> Estadistic: 0.8975471258163452   |   P-Valor: 1.6326466567573306e-10
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 105 Any: 1904 --> Estadistic: 0.8985167145729065   |   P-Valor: 1.8792015166191334e-10
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 106 Any: 1905 --> Estadistic: 0.9048194885253906   |   P-Valor: 4.792240493323163e-10
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 107 Any: 1906 --> Estadistic: 0.8885266780853271   |   P-Valor: 4.5912929708125105e-11
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 108 Any: 1907 --> Estadistic: 0.8855258226394653   |   P-Valor: 3.0561553288066534e-11
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 109 Any: 1908 --> Estadistic: 0.883425235748291   |   P-Valor: 2.308136667905636e-11
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 110 Any: 1909 --> Estadistic: 0.865671694278717   |   P-Valor: 2.4395500810431292e-12
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 111 Any: 1910 --> Estadistic: 0.8588939905166626   |   P-Valor: 1.0909377784820706e-12
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 112 Any: 1911 --> Estadistic: 0.8677313327789307   |   P-Valor: 3.1325192006298463e-12
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 113 Any: 1912 --> Estadistic: 0.8515028953552246   |   P-Valor: 4.672171395429803e-13
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 114 Any: 1913 --> Estadistic: 0.8406857252120972   |   P-Valor: 1.4212336006420162e-13
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 115 Any: 1914 --> Estadistic: 0.844709038734436   |   P-Valor: 2.197740280778307e-13
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 116 Any: 1915 --> Estadistic: 0.8625231981277466   |   P-Valor: 1.6729718738811572e-12
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 117 Any: 1916 --> Estadistic: 0.8517548441886902   |   P-Valor: 4.806860747115504e-13
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 118 Any: 1917 --> Estadistic: 0.8409520387649536   |   P-Valor: 1.462497251124642e-13
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 119 Any: 1918 --> Estadistic: 0.9437053203582764   |   P-Valor: 4.611665929132869e-07
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 120 Any: 1919 --> Estadistic: 0.8614332675933838   |   P-Valor: 1.4701853016246824e-12
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 121 Any: 1920 --> Estadistic: 0.8545951843261719   |   P-Valor: 6.637932391251322e-13
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 122 Any: 1921 --> Estadistic: 0.8343726396560669   |   P-Valor: 7.281295791999876e-14
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 123 Any: 1922 --> Estadistic: 0.8442031145095825   |   P-Valor: 2.079643965716138e-13
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 124 Any: 1923 --> Estadistic: 0.8169924020767212   |   P-Valor: 1.2610677340698859e-14
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 125 Any: 1924 --> Estadistic: 0.8347293138504028   |   P-Valor: 7.558100060525361e-14
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 126 Any: 1925 --> Estadistic: 0.8404179215431213   |   P-Valor: 1.38097202401731e-13
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 127 Any: 1926 --> Estadistic: 0.8583541512489319   |   P-Valor: 1.0243737282034093e-12
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 128 Any: 1927 --> Estadistic: 0.8675700426101685   |   P-Valor: 3.071469727861098e-12
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 129 Any: 1928 --> Estadistic: 0.8671878576278687   |   P-Valor: 2.931755099105926e-12
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 130 Any: 1929 --> Estadistic: 0.8746223449707031   |   P-Valor: 7.37432510888869e-12
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 131 Any: 1930 --> Estadistic: 0.8672420978546143   |   P-Valor: 2.9511879051646872e-12
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 132 Any: 1931 --> Estadistic: 0.8840357661247253   |   P-Valor: 2.5034875214546837e-11
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 133 Any: 1932 --> Estadistic: 0.9043650031089783   |   P-Valor: 4.473542092320315e-10
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 134 Any: 1933 --> Estadistic: 0.9241245985031128   |   P-Valor: 1.10638014305664e-08
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 135 Any: 1934 --> Estadistic: 0.892990231513977   |   P-Valor: 8.526229028360532e-11
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 136 Any: 1935 --> Estadistic: 0.9022368788719177   |   P-Valor: 3.250153479683604e-10
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 137 Any: 1936 --> Estadistic: 0.9123616218566895   |   P-Valor: 1.550287676010953e-09
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 138 Any: 1937 --> Estadistic: 0.911241888999939   |   P-Valor: 1.2971788088123049e-09
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 139 Any: 1938 --> Estadistic: 0.916340708732605   |   P-Valor: 2.9557378766753573e-09
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 140 Any: 1939 --> Estadistic: 0.9250304102897644   |   P-Valor: 1.296965113084525e-08
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 141 Any: 1940 --> Estadistic: 0.929847002029419   |   P-Valor: 3.081246546798866e-08
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 142 Any: 1941 --> Estadistic: 0.9314631223678589   |   P-Valor: 4.152295218773361e-08
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 143 Any: 1942 --> Estadistic: 0.94097501039505   |   P-Valor: 2.630737583331211e-07
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 144 Any: 1943 --> Estadistic: 0.9573684334754944   |   P-Valor: 9.874292118183803e-06
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 145 Any: 1944 --> Estadistic: 0.941405177116394   |   P-Valor: 2.871141475679906e-07
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 146 Any: 1945 --> Estadistic: 0.9491804242134094   |   P-Valor: 1.4910763184161624e-06
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 147 Any: 1946 --> Estadistic: 0.9597721695899963   |   P-Valor: 1.781342325557489e-05
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 148 Any: 1947 --> Estadistic: 0.9712264537811279   |   P-Valor: 0.00038559251697734
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 149 Any: 1948 --> Estadistic: 0.9651910662651062   |   P-Valor: 7.200781692517921e-05
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 150 Any: 1949 --> Estadistic: 0.9680446982383728   |   P-Valor: 0.00015648962289560586
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 151 Any: 1950 --> Estadistic: 0.9657914042472839   |   P-Valor: 8.457475632894784e-05
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 152 Any: 1951 --> Estadistic: 0.9670029282569885   |   P-Valor: 0.00011746910604415461
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 153 Any: 1952 --> Estadistic: 0.966805100440979   |   P-Valor: 0.0001112926984205842
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 154 Any: 1953 --> Estadistic: 0.9634363651275635   |   P-Valor: 4.5324071834329516e-05
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 155 Any: 1954 --> Estadistic: 0.9630777835845947   |   P-Valor: 4.128543150727637e-05
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 156 Any: 1955 --> Estadistic: 0.9615423679351807   |   P-Valor: 2.7819745810120367e-05
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 157 Any: 1956 --> Estadistic: 0.9594857096672058   |   P-Valor: 1.6589056031079963e-05
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 158 Any: 1957 --> Estadistic: 0.9584508538246155   |   P-Valor: 1.2852035979449283e-05
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 159 Any: 1958 --> Estadistic: 0.9570861458778381   |   P-Valor: 9.223443157679867e-06
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 160 Any: 1959 --> Estadistic: 0.9526976943016052   |   P-Valor: 3.287812887720065e-06
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 161 Any: 1960 --> Estadistic: 0.9533441662788391   |   P-Valor: 3.81499467039248e-06
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 162 Any: 1961 --> Estadistic: 0.9506580233573914   |   P-Valor: 2.07088987735915e-06
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 163 Any: 1962 --> Estadistic: 0.9471272826194763   |   P-Valor: 9.527552720101085e-07
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 164 Any: 1963 --> Estadistic: 0.9448792934417725   |   P-Valor: 5.898276072002773e-07
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 165 Any: 1964 --> Estadistic: 0.9460257887840271   |   P-Valor: 7.522017426708771e-07
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 166 Any: 1965 --> Estadistic: 0.9426665306091309   |   P-Valor: 3.718212724379555e-07
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 167 Any: 1966 --> Estadistic: 0.9407355189323425   |   P-Valor: 2.5061396513592626e-07
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 168 Any: 1967 --> Estadistic: 0.9399903416633606   |   P-Valor: 2.1564659391515306e-07
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 169 Any: 1968 --> Estadistic: 0.938308835029602   |   P-Valor: 1.542336320881077e-07
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 170 Any: 1969 --> Estadistic: 0.9359521865844727   |   P-Valor: 9.727144600901738e-08
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 171 Any: 1970 --> Estadistic: 0.9324893951416016   |   P-Valor: 5.029363236985773e-08
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 172 Any: 1971 --> Estadistic: 0.9315173625946045   |   P-Valor: 4.194403047108608e-08
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 173 Any: 1972 --> Estadistic: 0.9297901391983032   |   P-Valor: 3.049323282766636e-08
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 174 Any: 1973 --> Estadistic: 0.928916335105896   |   P-Valor: 2.5997273667144327e-08
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 175 Any: 1974 --> Estadistic: 0.9300547242164612   |   P-Valor: 3.2009445760650124e-08
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 176 Any: 1975 --> Estadistic: 0.9287453889846802   |   P-Valor: 2.5202027131854265e-08
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 177 Any: 1976 --> Estadistic: 0.9264804720878601   |   P-Valor: 1.6768151311907786e-08
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 178 Any: 1977 --> Estadistic: 0.9243773221969604   |   P-Valor: 1.1564076807246693e-08
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 179 Any: 1978 --> Estadistic: 0.9239280819892883   |   P-Valor: 1.0690477836305945e-08
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 180 Any: 1979 --> Estadistic: 0.9254871606826782   |   P-Valor: 1.4058080033407805e-08
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 181 Any: 1980 --> Estadistic: 0.9281164407730103   |   P-Valor: 2.2488551465471573e-08
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 182 Any: 1981 --> Estadistic: 0.9278853535652161   |   P-Valor: 2.1569901420548376e-08
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 183 Any: 1982 --> Estadistic: 0.9251294732093811   |   P-Valor: 1.3198025783367484e-08
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 184 Any: 1983 --> Estadistic: 0.924227774143219   |   P-Valor: 1.126535398299211e-08
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 185 Any: 1984 --> Estadistic: 0.9276598691940308   |   P-Valor: 2.071151961047235e-08
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 186 Any: 1985 --> Estadistic: 0.9242657423019409   |   P-Valor: 1.1340352656930008e-08
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 187 Any: 1986 --> Estadistic: 0.9212040305137634   |   P-Valor: 6.67952138044825e-09
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 188 Any: 1987 --> Estadistic: 0.9178616404533386   |   P-Valor: 3.801817083370906e-09
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 189 Any: 1988 --> Estadistic: 0.9145232439041138   |   P-Valor: 2.1960568918899526e-09
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 190 Any: 1989 --> Estadistic: 0.9156038761138916   |   P-Valor: 2.6190780655355184e-09
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 191 Any: 1990 --> Estadistic: 0.9154978394508362   |   P-Valor: 2.5740287679099083e-09
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 192 Any: 1991 --> Estadistic: 0.9179278016090393   |   P-Valor: 3.843938056746765e-09
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 193 Any: 1992 --> Estadistic: 0.922885000705719   |   P-Valor: 8.917973026711934e-09
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 194 Any: 1993 --> Estadistic: 0.9237756729125977   |   P-Valor: 1.0410110107272885e-08
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 195 Any: 1994 --> Estadistic: 0.8913044929504395   |   P-Valor: 6.735634272558855e-11
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 196 Any: 1995 --> Estadistic: 0.9251406788825989   |   P-Valor: 1.3224065398276252e-08
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 197 Any: 1996 --> Estadistic: 0.9201459884643555   |   P-Valor: 5.57931967293257e-09
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 198 Any: 1997 --> Estadistic: 0.9183551073074341   |   P-Valor: 4.127924224661683e-09
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 199 Any: 1998 --> Estadistic: 0.9147474765777588   |   P-Valor: 2.2775461516744144e-09
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 200 Any: 1999 --> Estadistic: 0.912131130695343   |   P-Valor: 1.4942596049394297e-09
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 201 Any: 2000 --> Estadistic: 0.9120956063270569   |   P-Valor: 1.4858138053241987e-09
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 202 Any: 2001 --> Estadistic: 0.9132152199745178   |   P-Valor: 1.7776654592793761e-09
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 203 Any: 2002 --> Estadistic: 0.9128218293190002   |   P-Valor: 1.6688218584803849e-09
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 204 Any: 2003 --> Estadistic: 0.9121662378311157   |   P-Valor: 1.5026517807825712e-09
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 205 Any: 2004 --> Estadistic: 0.9180404543876648   |   P-Valor: 3.916765134448497e-09
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 206 Any: 2005 --> Estadistic: 0.9197223782539368   |   P-Valor: 5.193582008899966e-09
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 207 Any: 2006 --> Estadistic: 0.9221762418746948   |   P-Valor: 7.89105669696255e-09
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 208 Any: 2007 --> Estadistic: 0.9245656728744507   |   P-Valor: 1.1952370648771193e-08
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 209 Any: 2008 --> Estadistic: 0.9264612197875977   |   P-Valor: 1.6710668404584794e-08
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 210 Any: 2009 --> Estadistic: 0.9297158718109131   |   P-Valor: 3.008112514635286e-08
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 211 Any: 2010 --> Estadistic: 0.9196535348892212   |   P-Valor: 5.133566016723989e-09
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 212 Any: 2011 --> Estadistic: 0.9338841438293457   |   P-Valor: 6.543800878944239e-08
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 213 Any: 2012 --> Estadistic: 0.9362165927886963   |   P-Valor: 1.023829128143916e-07
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 214 Any: 2013 --> Estadistic: 0.9367813467979431   |   P-Valor: 1.1426718771190281e-07
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 215 Any: 2014 --> Estadistic: 0.9363446235656738   |   P-Valor: 1.0495814706246165e-07
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 216 Any: 2015 --> Estadistic: 0.9392043352127075   |   P-Valor: 1.8425174630465335e-07
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
+Atribut 217 Any: 2016 --> Estadistic: 0.9413375854492188   |   P-Valor: 2.831882568443689e-07
+Es pot descartar la hipòtesi de que les dades es distribueixen de forma normal 
+-----------------------------------------------------------------------------
